@@ -1,0 +1,55 @@
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\bin\Debug\MyCinema.exe.config
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\bin\Debug\MyCinema.exe
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\bin\Debug\MyCinema.pdb
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\obj\Debug\MyCinema.csprojResolveAssemblyReference.cache
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\obj\Debug\MyCinema.exe
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\obj\Debug\MyCinema.pdb
+d:\用户目录\documents\visual studio 2012\Projects\MyCinema\MyCinema\obj\Debug\MyCinema.frmMain.resources
+F:\MyCinema\MyCinema\bin\Debug\MyCinema.exe.config
+F:\MyCinema\MyCinema\obj\Debug\MyCinema.exe
+F:\MyCinema\MyCinema\obj\Debug\MyCinema.pdb
+F:\MyCinema\MyCinema\bin\Debug\Poster\不二神探.jpg
+F:\MyCinema\MyCinema\bin\Debug\Poster\中国合伙人.jpg
+F:\MyCinema\MyCinema\bin\Debug\Poster\西游降魔篇.jpg
+F:\MyCinema\MyCinema\bin\Debug\Poster\钢铁侠3.jpg
+F:\MyCinema\MyCinema\bin\Debug\ShowList.xml
+F:\MyCinema\MyCinema\bin\Debug\MyCinema.exe
+F:\MyCinema\MyCinema\bin\Debug\MyCinema.pdb
+F:\MyCinema\MyCinema\obj\Debug\MyCinema.csprojResolveAssemblyReference.cache
+F:\MyCinema\MyCinema\obj\Debug\MyCinema.frmMain.resources
+F:\MyCinema\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+F:\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\MyCinema.exe.config
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.exe
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.pdb
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\不二神探.jpg
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\中国合伙人.jpg
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\西游降魔篇.jpg
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\钢铁侠3.jpg
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\ShowList.xml
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\MyCinema.exe
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\MyCinema.pdb
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.csprojResolveAssemblyReference.cache
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.frmMain.resources
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\MyCinema.exe.config
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.exe
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.pdb
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\不二神探.jpg
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\中国合伙人.jpg
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\西游降魔篇.jpg
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\钢铁侠3.jpg
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\ShowList.xml
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\MyCinema.exe
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\MyCinema.pdb
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.frmMain.resources
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache
+F:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\obj\Debug\MyCinema.csprojResolveAssemblyReference.cache
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\我的野蛮女友.jpg
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\雏菊.jpg
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\心花怒放.jpg
+H:\S2\C#-OOP\Chapter11\MyCinema\MyCinema\bin\Debug\Poster\老男孩.jpg
